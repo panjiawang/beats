@@ -4106,7 +4106,7 @@ The unix timestamp taken from the `SET timestamp` query.
 
 --
 
-*`mysql.slowlog.query`*::
+*`mysql_slowlog_query`*::
 +
 --
 The slow query.
